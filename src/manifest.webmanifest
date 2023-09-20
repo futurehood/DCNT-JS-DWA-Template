@@ -8,7 +8,7 @@
     "description": "A basic DCNT-JS DWA template.",
     "icons": [
         {
-            "src": "/images/logo_circle.svg",
+            "src": "favicon.svg",
             "sizes": "600x600",
             "type": "image/svg+xml"
         }
