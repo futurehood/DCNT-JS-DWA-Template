@@ -5,6 +5,6 @@ const listeners = {}
 // Create a new NetworkManager instance
 const networkManager = new NetworkManager(
     listeners,
-    ["stun:iphone-stun.strato-iphone.de:3478"],
-    ["SAMPLE-APP"]
+    ["stun:YOUR-STUN-SERVER-HERE:PORT"], // See: https://gist.github.com/mondain/b0ec1cf5f60ae726202e
+    ["YOUR-APPLICATION-PROTOCOL-HERE"]
 )
